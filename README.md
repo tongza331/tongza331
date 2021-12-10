@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: tongbleach33@gmail.com
 - 💬 My stat
 
 [![tongza331's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongza331&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
