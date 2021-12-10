@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 - 🌱 My youtube channel : https://www.youtube.com/c/PatcharapornSirimom
 - 💬 You can contact me : tongbleach33@gmail.com
+- ❤️ I love writing Python and use Django Framework to create web applications.
 - ⚡ My stats
 
 [![tongza331's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongza331&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongza331&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ My skills
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
