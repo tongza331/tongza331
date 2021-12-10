@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 You can contact me at tongbleach33@gmail.com
-- 💬 My stat
+- 💬 My stats
 
 [![tongza331's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongza331&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ My skills
