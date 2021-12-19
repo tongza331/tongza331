@@ -29,5 +29,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png"></code> 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
 
 
