@@ -36,8 +36,3 @@
 ![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 #### Cloud 
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## ⚡My github stats
-
-[![tongza331's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongza331&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongza331&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
