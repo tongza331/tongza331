@@ -4,7 +4,7 @@
 - 💬 You can contact me : tongbleach33@gmail.com
 - 💬 Medium : https://medium.com/@tongbleach33
 
-## ⚡Techs Stack
+## ⚡Tech Stack
 #### Programming Languages
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
