@@ -3,6 +3,7 @@
 - 🌱 My youtube channel : https://www.youtube.com/c/PatcharapornSirimom
 - 💬 You can contact me : tongbleach33@gmail.com
 - 💬 Medium : https://medium.com/@tongbleach33
+- 📄LinkedIn : https://www.linkedin.com/in/patcharaporn-sirimom
 
 ## ⚡Tech Stack
 #### Programming Languages
