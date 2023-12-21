@@ -1,4 +1,4 @@
-👋 Hi, I’m PATCHARAPORN SIRIMOM - A student 4th year of computer engineer at KMUTT. I'm interested in Coding, AI/ML, Industrial Image Processing, Food, Cat, Technology, Astronomy and more.
+👋 Hi there, I'm PATCHARAPORN SIRIMOM or you can call me "Tong". I'm so passionate in Coding, Techonology, Astronomy, Physics and more.
 
 - 🌱 My youtube channel : https://www.youtube.com/c/PatcharapornSirimom
 - 💬 You can contact me : tongbleach33@gmail.com
